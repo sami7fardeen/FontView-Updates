@@ -34,19 +34,18 @@ FontView helps you explore font files directly on your Android device. Import a 
 
 ## 📱 App Screenshots
 
-The preview above shows the main areas of FontView:
+## 📱 App Screenshots
 
-| Home | My Fonts |
-|---|---|
-| Import fonts and see your library at a glance. | Browse your imported font collection. |
+<p align="center">
+  <img src="home.png" width="220">
+  <img src="my-fonts.png" width="220">
+  <img src="search.png" width="220">
+</p>
 
-| Search | Favorites |
-|---|---|
-| Quickly narrow down your font list. | Keep your preferred fonts close. |
-
-| Settings |
-|---|
-| Customize appearance, animations, and update checks. |
+<p align="center">
+  <img src="favorites.png" width="220">
+  <img src="settings.png" width="220">
+</p>
 
 ## 📥 Download & Install
 
