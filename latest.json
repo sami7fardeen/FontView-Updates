@@ -1,0 +1,14 @@
+{
+  "versionCode": 1,
+  "versionName": "1.0.0",
+  "packageName": "com.fontview.app",
+  "apkUrl": "https://github.com/sami7fardeen/FontView-Updates/releases/download/v1.0.0/FontView-v1.0.0.apk",
+  "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+  "mandatory": false,
+  "minSupportedVersionCode": 1,
+  "fileName": "FontView-v1.0.0.apk",
+  "publishedAt": null,
+  "releaseNotes": [
+    "Initial FontView release."
+  ]
+}
